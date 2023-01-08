@@ -1,0 +1,16 @@
+td{
+    padding: 20px 30px;
+    border: 1px solid black;
+    /* border-collapse: collapse; */
+}
+.abbs td{
+    font-size: 18px;
+    font-weight: bold;
+}
+.t-body{
+    border: 1px solid black;
+    margin: auto;
+}
+table{
+    /* border-collapse: collapse; */
+}
